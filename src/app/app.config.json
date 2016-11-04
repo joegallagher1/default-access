@@ -1,0 +1,15 @@
+{
+	"appname": "default access",
+	"scope": "BuyerAdmin BuyerReader FullAccess",
+	"clientid": "EED69F02-2E8D-4903-AF24-E2DFC3352EF0",
+	"buyerid": null,
+	"catalogid": null,
+	"environment": "prod",
+	"anonymous": false,
+	"base": {
+		"left": true,
+		"right": false,
+		"top": true,
+		"bottom": false
+	}
+}
